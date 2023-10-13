@@ -31,4 +31,4 @@ function celsiusToFahrenheit(celsius) {
   }
   
   convertirTemperatura();
-  ""
+  
